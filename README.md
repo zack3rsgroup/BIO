@@ -1,5 +1,8 @@
 # BIO
 
+# Followers
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/zack3rsgroup?style=flat&logo=github">
+
 # 🖥️ Setup
 ![windows](https://img.shields.io/badge/Windows_10_Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![e5-2th-gen](https://img.shields.io/badge/Intel_Xeon_E5_2689_Dual-0071C5?style=for-the-badge&logo=intel&logoColor=white)
